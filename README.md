@@ -1,3 +1,11 @@
+Main function:
+The html it is only meant to be a visual demonstration of the skills learned during the course.
+
+Main structure:
+Using divs inside divs and apply format with css
+
+_______________________
+
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
